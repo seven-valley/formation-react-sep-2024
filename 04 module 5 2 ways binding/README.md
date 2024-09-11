@@ -49,11 +49,7 @@ export default function App() {
 ```
 
 ## ETAPE 1
-Modifier le code ci dessus  
-enlever le champ info  
-ajouter un champ input prenom  
-ajouter un champ input nom  
-Afficher en temps réels le nom et le prénom  
+  
 ```jsx
 import "./App.css";
 import { useRef, useState } from "react";
