@@ -1,4 +1,5 @@
-
+# Module 5 le two ways binding - liaison bidirectionel
+![module-5](../img/04/module-5.png)
 
 # Exemple 1 : 2 ways binding
 ```jsx
